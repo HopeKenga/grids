@@ -1,1 +1,1 @@
-# grids
+# grids displays the use of grids in css
